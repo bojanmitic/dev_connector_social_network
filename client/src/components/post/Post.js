@@ -5,7 +5,6 @@ import PropTypes from "prop-types";
 import Spinner from "../common/Spinner";
 import { getPost } from "../../actions/postActions";
 import PostItem from "../posts/PostItem";
-import CommentPost from "./CommentForm";
 import CommentForm from "./CommentForm";
 import CommentFeed from "./CommentFeed";
 
